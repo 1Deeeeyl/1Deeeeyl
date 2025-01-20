@@ -61,16 +61,20 @@
 
 ###
 
+<h2 align="left">What I Mostly Do</h2>
+
+<div align="left">
+  <img height="150" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/pixel-jeff-mario.gif" />
+</div>
+
+
+
+###
+
 <h2 align="left">Stats</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Deeeeyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="425" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/pixel-jeff-mario.gif" />
 </div>
 
 ###
