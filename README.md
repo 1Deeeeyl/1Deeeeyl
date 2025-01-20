@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="425" src="/readmeFiles/pixel-mario-jeff.gif"  />
+  <img height="425" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/pixel-jeff-mario.gif" />
 </div>
 
 ###
