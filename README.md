@@ -1,3 +1,5 @@
+<h1 align="left">Hello, I'm Dale! <img height="425" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/giphy.gif" /> </h1>
+
 <h2 align="left">Technologies And Tools I Use</h2>
 
 ###
