@@ -2,10 +2,13 @@
 
 <p>I’m a 23-year-old former UI/UX designer turned frontend developer. In my free time, I study backend development to expand my skill set and work towards becoming a full-stack developer, capable of handling end-to-end solutions. Away from the keyboard, I like to sketch for fun, tinker with my car, or head outside with my camera to capture whatever catches my eye.</p>
 <div align="left">
-  <a href="mailto:porciuncula.randale@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.demolab.com/badge/-porciuncula.randale@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" height="30" alt="linkedin logo"  />
+  <a href="mailto:porciuncula.randale@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
+ <img src="https://custom-icon-badges.demolab.com/badge/-porciuncula.randale@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" height="30" alt="linkedin logo"  /></a>
+  
+<a href="https://www.linkedin.com/in/r-porciuncula/" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
- <a href="https://www.linkedin.com/in/r-porciuncula/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+ 
 </div>
 
 ###
