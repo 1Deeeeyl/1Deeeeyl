@@ -70,6 +70,7 @@
   <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/dog.gif" style="display: inline-block"/>
   <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/chill.gif" style="display: inline-block"/>
   <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/car.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/race.gif" style="display: inline-block"/>
 </div>
 
 
