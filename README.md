@@ -2,6 +2,7 @@
 
 <p>I’m a 23-year-old former UI/UX designer turned frontend developer. In my free time, I study backend development to expand my skill set and work towards becoming a full-stack developer, capable of handling end-to-end solutions. Away from the keyboard, I like to sketch for fun, tinker with my car, or head outside with my camera to capture whatever catches my eye.</p>
 <div align="left">
+  <h3>You Can Contact Me Here</h3>
   <a href="mailto:porciuncula.randale@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
  <img src="https://custom-icon-badges.demolab.com/badge/-porciuncula.randale@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" height="30" alt="linkedin logo"  /></a>
   
