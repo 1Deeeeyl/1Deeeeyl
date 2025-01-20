@@ -1,6 +1,16 @@
-<h1 align="left">Hello, I'm Dale! <img height="425" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/giphy.gif" /> </h1>
+<h1 align="left">Hello, I'm Dale! <img height="50" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/giphy.gif" /> </h1>
 
-<h2 align="left">Technologies And Tools I Use</h2>
+<p>I’m a 23-year-old former UI/UX designer turned frontend developer. In my free time, I study backend development to expand my skill set and work towards becoming a full-stack developer, capable of handling end-to-end solutions. Away from the keyboard, I like to sketch for fun, tinker with my car, or head outside with my camera to capture whatever catches my eye.</p>
+<div align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/-porciuncula.randale@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" height="30" alt="linkedin logo"  />
+  
+ <a href="https://www.linkedin.com/in/r-porciuncula/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+<h2 style="margin-top: 25px">Technologies And Tools I Use</h2>
+
 
 ###
 
@@ -48,6 +58,8 @@
 
 ###
 
+<h2 align="left">Stats</h2>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Deeeeyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -64,3 +76,4 @@
 1Deeeeyl/1Deeeeyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
