@@ -64,11 +64,12 @@
 <h2 align="left">What I Mostly Do</h2>
 
 <div align="left">
-  <img height="125" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/pixel-jeff-mario.gif" style="display: inline-block"/>
-  <img height="125" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/music.gif" style="display: inline-block"/>
-  <img height="125" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/out.gif" style="display: inline-block"/>
-  <img height="125" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/dog.gif" style="display: inline-block"/>
-  <img height="125" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/chill.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/pixel-jeff-mario.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/music.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/out.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/dog.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/chill.gif" style="display: inline-block"/>
+  <img height="135" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/car.gif" style="display: inline-block"/>
 </div>
 
 
