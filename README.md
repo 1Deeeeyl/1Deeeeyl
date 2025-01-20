@@ -87,5 +87,6 @@
 <!---
 1Deeeeyl/1Deeeeyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Credits to https://www.artstation.com/pixeljeff1995
+
 --->
-![Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
