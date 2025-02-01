@@ -4,10 +4,13 @@
 <div align="left">
   <h3>You Can Contact Me Here</h3>
   <a href="mailto:porciuncula.randale@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
- <img src="https://custom-icon-badges.demolab.com/badge/-porciuncula.randale@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" height="30" alt="linkedin logo"  /></a>
+ <img src="https://custom-icon-badges.demolab.com/badge/-porciuncula.randale@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" height="30" alt="email image"  /></a>
   
 <a href="https://www.linkedin.com/in/r-porciuncula/" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" /></a>
+
+  <a href="mailto:porciuncula.randale@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
+ <img src="https://custom-icon-badges.demolab.com/badge/-portfolio website-aqua?style=for-the-badge" height="30" alt="portfolio website image"  /></a>
   </a>
  
 </div>
