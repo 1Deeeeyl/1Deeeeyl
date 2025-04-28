@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Dale! <img height="50" src="https://raw.githubusercontent.com/1Deeeeyl/1Deeeeyl/main/readmeFiles/giphy.gif" /> </h1>
 
-<p>I’m a 23-year-old <b>former UI/UX designer turned front-end developer</b>. In my free time, I study backend development to expand my skill set and work towards becoming a full-stack developer, capable of handling end-to-end solutions. Away from the keyboard, I like to sketch for fun, tinker with my car, or head outside with my camera to capture whatever catches my eye.</p>
+<p>I’m a <b>former UI/UX designer turned front-end developer</b>. In my free time, I study backend development to expand my skill set and work towards becoming a full-stack developer, capable of handling end-to-end solutions. Away from the keyboard, I like to sketch for fun, tinker with my car, or head outside with my camera to capture whatever catches my eye.</p>
 <div align="left">
   <h3>You Can Contact Me Here</h3>
   <a href="mailto:porciuncula.randale@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"> 
